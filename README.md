@@ -10,7 +10,9 @@ Sobre o projeto:
     https://pub.dev/packages/flutter_getit
     https://github.com/rodrigorahman/getit_flutter/blob/main/README.pt-br.md
 - Gerencia de Estado:
+    signal 
 - Arquitetura
+    MVVM 
 
 Backend: 
   
