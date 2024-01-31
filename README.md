@@ -15,7 +15,8 @@ Sobre o projeto:
     MVVM 
 
 Backend: 
-  
+- Json_rest_server
+  https://pub.dev/packages/json_rest_server  
 
 ## Suporte
 
