@@ -18,6 +18,10 @@ Backend:
 - Json_rest_server
   https://pub.dev/packages/json_rest_server  
 
+- Configuracoes:
+https://gist.github.com/rodrigorahman/944b0b2de95c28c10a31b2e174abce3c
+
+
 ## Suporte
 
 Para suporte, mande um email para fake@fake.com ou entre em nosso canal do Slack.
